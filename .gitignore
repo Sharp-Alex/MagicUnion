@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MagicUnion/bin/Debug/netstandard2.0
+/MagicUnion/obj
+/MagicUnion/MagicUnion.csproj.vspscc
+/MagicUnion.Test/bin/Debug
+/MagicUnion.Test/obj
+/MagicUnion.Test/MagicUnion.Test.csproj.vspscc
+/MagicUnion.Vsix/bin/Debug
+/MagicUnion.Vsix/obj
+/MagicUnion.Vsix/MagicUnion.Vsix.csproj.vspscc
