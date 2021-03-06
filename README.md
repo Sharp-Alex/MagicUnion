@@ -8,7 +8,7 @@ It's really frustrating, first of all because it forces developer to type unnece
 Generated union has following features:
 
 1. Union is a class with read-only members.
-1. Type safe construction for every union member via Creat method.
+1. Type safe construction for every union member via Create method.
 1. Null check for every reference type in the Create method.
 1. Provides Match method for access to all members:
    1. Match method with Func as arguments.
