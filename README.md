@@ -10,10 +10,10 @@ Generated union has following features:
 1. Union is a class with read-only members.
 1. Type safe construction for every union member via Create method.
 1. Null check for every reference argument in the Create method.
-1. Provides Match method for access to all members:
+1. Matching pattern is provided by the Match method for access to all members:
    1. Match method with Func as arguments.
    1. Match method with Action as arguments
-   1. Math method for both above but all arguments boxed together into one ValueTuple.
+   1. Math method for both above but all arguments are boxed together into one ValueTuple.
 1. Provides equality comparison by value
 1. Provides GetHash by value.
 
